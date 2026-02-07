@@ -1,0 +1,67 @@
+[{
+  "_id": {
+    "$oid": "6987a44491a015044c429bcf"
+  },
+  "name": "Ancestor's Chosen",
+  "manaCost": "{5}{W}{W}",
+  "type": "Creature — Human Cleric",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Cleric"
+  ],
+  "colors": [
+    "White"
+  ],
+  "rarity": "Uncommon",
+  "setName": "Time Spiral",
+  "text": "First strike. When Ancestor's Chosen enters the battlefield, you gain 1 life for each card in your graveyard.",
+  "imageUrl": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=113514&type=card",
+  "lastUpdated": "2026-02-05T21:00:00Z"
+},
+{
+  "_id": {
+    "$oid": "6987a44491a015044c429bd0"
+  },
+  "name": "Serra Angel",
+  "manaCost": "{3}{W}{W}",
+  "type": "Creature — Angel",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Angel"
+  ],
+  "colors": [
+    "White"
+  ],
+  "rarity": "Uncommon",
+  "setName": "Revised Edition",
+  "text": "Flying, vigilance.",
+  "imageUrl": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=205&type=card",
+  "lastUpdated": "2026-02-05T21:00:00Z"
+},
+{
+  "_id": {
+    "$oid": "6987a44491a015044c429bd1"
+  },
+  "name": "Shivan Dragon",
+  "manaCost": "{4}{R}{R}",
+  "type": "Creature — Dragon",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Dragon"
+  ],
+  "colors": [
+    "Red"
+  ],
+  "rarity": "Rare",
+  "setName": "Revised Edition",
+  "text": "Flying. {R}: Shivan Dragon gets +1/+0 until end of turn.",
+  "imageUrl": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=203&type=card",
+  "lastUpdated": "2026-02-05T21:00:00Z"
+}]
