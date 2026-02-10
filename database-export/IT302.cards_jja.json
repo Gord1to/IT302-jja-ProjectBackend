@@ -1,0 +1,489 @@
+[{
+  "_id": {
+    "$oid": "698aa2e96ff88cc0d486be62"
+  },
+  "name": "Ancestor's Chosen",
+  "manaCost": "{5}{W}{W}",
+  "type": "Creature — Human Cleric",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Cleric"
+  ],
+  "colors": [
+    "White"
+  ],
+  "rarity": "Uncommon",
+  "setName": "Time Spiral",
+  "text": "First strike. When Ancestor's Chosen enters the battlefield, you gain 1 life for each card in your graveyard.",
+  "imageUrl": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=113514&type=card",
+  "lastUpdated": {
+    "$date": "2026-02-10T03:15:53.869Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "698aa2e96ff88cc0d486be63"
+  },
+  "name": "Serra Angel",
+  "manaCost": "{3}{W}{W}",
+  "type": "Creature — Angel",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Angel"
+  ],
+  "colors": [
+    "White"
+  ],
+  "rarity": "Uncommon",
+  "setName": "Revised Edition",
+  "text": "Flying, vigilance.",
+  "imageUrl": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=205&type=card",
+  "lastUpdated": {
+    "$date": "2026-02-10T03:15:53.869Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "698aa2e96ff88cc0d486be64"
+  },
+  "name": "Shivan Dragon",
+  "manaCost": "{4}{R}{R}",
+  "type": "Creature — Dragon",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Dragon"
+  ],
+  "colors": [
+    "Red"
+  ],
+  "rarity": "Rare",
+  "setName": "Revised Edition",
+  "text": "Flying. {R}: Shivan Dragon gets +1/+0 until end of turn.",
+  "imageUrl": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=203&type=card",
+  "lastUpdated": {
+    "$date": "2026-02-10T03:15:53.869Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "698aa2e96ff88cc0d486be65"
+  },
+  "name": "Air Elemental",
+  "manaCost": "{3}{U}{U}",
+  "type": "Creature — Elemental",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elemental"
+  ],
+  "colors": [
+    "Blue"
+  ],
+  "rarity": "Uncommon",
+  "setName": "Alpha",
+  "text": "Flying.",
+  "imageUrl": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=94&type=card",
+  "lastUpdated": {
+    "$date": "2026-02-10T03:15:53.869Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "698aa2e96ff88cc0d486be66"
+  },
+  "name": "Hypnotic Specter",
+  "manaCost": "{1}{B}{B}",
+  "type": "Creature — Specter",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Specter"
+  ],
+  "colors": [
+    "Black"
+  ],
+  "rarity": "Uncommon",
+  "setName": "Revised Edition",
+  "text": "Flying. Whenever Hypnotic Specter deals damage to an opponent, that player discards a card at random.",
+  "imageUrl": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=233&type=card",
+  "lastUpdated": {
+    "$date": "2026-02-10T03:15:53.869Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "698aa2e96ff88cc0d486be67"
+  },
+  "name": "Craw Wurm",
+  "manaCost": "{4}{G}{G}",
+  "type": "Creature — Wurm",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Wurm"
+  ],
+  "colors": [
+    "Green"
+  ],
+  "rarity": "Common",
+  "setName": "Alpha",
+  "text": "",
+  "imageUrl": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=121&type=card",
+  "lastUpdated": {
+    "$date": "2026-02-10T03:15:53.869Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "698aa2e96ff88cc0d486be68"
+  },
+  "name": "Llanowar Elves",
+  "manaCost": "{G}",
+  "type": "Creature — Elf Druid",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elf",
+    "Druid"
+  ],
+  "colors": [
+    "Green"
+  ],
+  "rarity": "Common",
+  "setName": "Dominaria",
+  "text": "{T}: Add {G}.",
+  "imageUrl": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=443018&type=card",
+  "lastUpdated": {
+    "$date": "2026-02-10T03:15:53.869Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "698aa2e96ff88cc0d486be69"
+  },
+  "name": "Savannah Lions",
+  "manaCost": "{W}",
+  "type": "Creature — Cat",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Cat"
+  ],
+  "colors": [
+    "White"
+  ],
+  "rarity": "Rare",
+  "setName": "Alpha",
+  "text": "",
+  "imageUrl": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=279&type=card",
+  "lastUpdated": {
+    "$date": "2026-02-10T03:15:53.869Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "698aa2e96ff88cc0d486be6a"
+  },
+  "name": "Grizzly Bears",
+  "manaCost": "{1}{G}",
+  "type": "Creature — Bear",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Bear"
+  ],
+  "colors": [
+    "Green"
+  ],
+  "rarity": "Common",
+  "setName": "Alpha",
+  "text": "",
+  "imageUrl": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=129457&type=card",
+  "lastUpdated": {
+    "$date": "2026-02-10T03:15:53.869Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "698aa2e96ff88cc0d486be6b"
+  },
+  "name": "Hill Giant",
+  "manaCost": "{3}{R}",
+  "type": "Creature — Giant",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Giant"
+  ],
+  "colors": [
+    "Red"
+  ],
+  "rarity": "Common",
+  "setName": "Alpha",
+  "text": "",
+  "imageUrl": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=186&type=card",
+  "lastUpdated": {
+    "$date": "2026-02-10T03:15:53.869Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "698aa2e96ff88cc0d486be6c"
+  },
+  "name": "Nightmare",
+  "manaCost": "{5}{B}",
+  "type": "Creature — Nightmare Horse",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Nightmare",
+    "Horse"
+  ],
+  "colors": [
+    "Black"
+  ],
+  "rarity": "Rare",
+  "setName": "Alpha",
+  "text": "Flying. Nightmare's power and toughness are each equal to the number of Swamps you control.",
+  "imageUrl": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=239&type=card",
+  "lastUpdated": {
+    "$date": "2026-02-10T03:15:53.869Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "698aa2e96ff88cc0d486be6d"
+  },
+  "name": "Royal Assassin",
+  "manaCost": "{1}{B}{B}",
+  "type": "Creature — Human Assassin",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Assassin"
+  ],
+  "colors": [
+    "Black"
+  ],
+  "rarity": "Rare",
+  "setName": "Alpha",
+  "text": "{T}: Destroy target tapped creature.",
+  "imageUrl": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=250&type=card",
+  "lastUpdated": {
+    "$date": "2026-02-10T03:15:53.869Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "698aa2e96ff88cc0d486be6e"
+  },
+  "name": "Birds of Paradise",
+  "manaCost": "{G}",
+  "type": "Creature — Bird",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Bird"
+  ],
+  "colors": [
+    "Green"
+  ],
+  "rarity": "Rare",
+  "setName": "Revised Edition",
+  "text": "Flying. {T}: Add one mana of any color.",
+  "imageUrl": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=12345&type=card",
+  "lastUpdated": {
+    "$date": "2026-02-10T03:15:53.869Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "698aa2e96ff88cc0d486be6f"
+  },
+  "name": "Vampire Nighthawk",
+  "manaCost": "{1}{B}{B}",
+  "type": "Creature — Vampire Shaman",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Vampire",
+    "Shaman"
+  ],
+  "colors": [
+    "Black"
+  ],
+  "rarity": "Uncommon",
+  "setName": "Zendikar",
+  "text": "Flying, deathtouch, lifelink.",
+  "imageUrl": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=195187&type=card",
+  "lastUpdated": {
+    "$date": "2026-02-10T03:15:53.869Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "698aa2e96ff88cc0d486be70"
+  },
+  "name": "Goblin Guide",
+  "manaCost": "{R}",
+  "type": "Creature — Goblin Scout",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Goblin",
+    "Scout"
+  ],
+  "colors": [
+    "Red"
+  ],
+  "rarity": "Rare",
+  "setName": "Zendikar",
+  "text": "Haste. Whenever Goblin Guide attacks, defending player reveals the top card of their library.",
+  "imageUrl": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=195186&type=card",
+  "lastUpdated": {
+    "$date": "2026-02-10T03:15:53.869Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "698aa2e96ff88cc0d486be71"
+  },
+  "name": "Thragtusk",
+  "manaCost": "{4}{G}",
+  "type": "Creature — Beast",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Beast"
+  ],
+  "colors": [
+    "Green"
+  ],
+  "rarity": "Rare",
+  "setName": "Magic 2013",
+  "text": "When Thragtusk enters the battlefield, you gain 5 life.",
+  "imageUrl": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=259689&type=card",
+  "lastUpdated": {
+    "$date": "2026-02-10T03:15:53.869Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "698aa2e96ff88cc0d486be72"
+  },
+  "name": "Baleful Strix",
+  "manaCost": "{U}{B}",
+  "type": "Creature — Bird",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Bird"
+  ],
+  "colors": [
+    "Blue",
+    "Black"
+  ],
+  "rarity": "Rare",
+  "setName": "Planechase 2012",
+  "text": "Flying, deathtouch. When Baleful Strix enters the battlefield, draw a card.",
+  "imageUrl": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=271&type=card",
+  "lastUpdated": {
+    "$date": "2026-02-10T03:15:53.869Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "698aa2e96ff88cc0d486be73"
+  },
+  "name": "Tarmogoyf",
+  "manaCost": "{1}{G}",
+  "type": "Creature — Lhurgoyf",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Lhurgoyf"
+  ],
+  "colors": [
+    "Green"
+  ],
+  "rarity": "Rare",
+  "setName": "Future Sight",
+  "text": "Tarmogoyf's power is equal to the number of card types among cards in all graveyards.",
+  "imageUrl": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=136&type=card",
+  "lastUpdated": {
+    "$date": "2026-02-10T03:15:53.869Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "698aa2e96ff88cc0d486be74"
+  },
+  "name": "Snapcaster Mage",
+  "manaCost": "{1}{U}",
+  "type": "Creature — Human Wizard",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Wizard"
+  ],
+  "colors": [
+    "Blue"
+  ],
+  "rarity": "Rare",
+  "setName": "Innistrad",
+  "text": "Flash. When Snapcaster Mage enters the battlefield, target instant or sorcery card in your graveyard gains flashback.",
+  "imageUrl": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=220&type=card",
+  "lastUpdated": {
+    "$date": "2026-02-10T03:15:53.869Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "698aa3666ff88cc0d486be75"
+  },
+  "name": "Vampire Nighthawk",
+  "manaCost": "{1}{B}{B}",
+  "type": "Creature — Vampire Shaman",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Vampire",
+    "Shaman"
+  ],
+  "colors": [
+    "Black"
+  ],
+  "rarity": "Uncommon",
+  "setName": "Zendikar",
+  "text": "Flying, deathtouch, lifelink.",
+  "imageUrl": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=195187&type=card",
+  "lastUpdated": {
+    "$date": "2026-02-05T21:00:00Z"
+  }
+}]
