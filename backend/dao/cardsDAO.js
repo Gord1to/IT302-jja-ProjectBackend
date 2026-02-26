@@ -1,4 +1,11 @@
 let cards
+/*
+Jeremy Aviles
+2/25/26
+IT302-452
+Phase 2 Read MongoDB data using Node.js
+jja@njit.edu
+*/
 
 export default class CardsDAO {
   static async injectDB(conn) {
@@ -20,8 +27,12 @@ export default class CardsDAO {
     if(filters) {
       if("name" in filters) {
         query = { $text: { $search: filters['name']}}
-      } else if("rated" in filters) {
-        query = { "rated": { $eq: filters['rated']}}
+      } else if("rarity" in filters) {
+        query = { "rarity": { $eq: filters['rarity']}}
+    } else if("setName" in filters) {
+        query = { "setName": { $eq: filters['setName']}}
+    } else if("subtypes" in filters) {
+        query = { "subtypes": { $eq: filters['subtypes']}}
     }
  }
     let cursor
